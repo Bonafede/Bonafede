@@ -1,8 +1,6 @@
 <div id="top"></div>
 <!-- PROJECT SHIELDS -->
-<!--
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
+
 [![website][website-shield]][website-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
