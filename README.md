@@ -96,12 +96,12 @@ Prestart of an app for a pharmaceutic company. I start as the only developer sel
 <br>
 
 
+<img align="right" src="images/digitalage_logo.png" alt="Logo" height="60">
 
 ### <h2>Digital Age</h2>
 
 #### <h3>_November 2021 : Febraury 2022_</h3>
 
-<img style="float: right; position: relative; top: -70px; padding: 10px;" src="images/digitalage_logo.png" alt="Logo" height="60">
 
 
 Architect and developers team leader. I enter as backend developer but after 2 weeks one of the agencies has problem with the client, so every developer left. I was left alone with 2 backend and 1 front end developers. Because the client does not have time, I had to take the structure decision, how the layers of the application will be distributed, the ERD, etc. I did the peer review of each commit of my teammates and develop new features. 
