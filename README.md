@@ -250,56 +250,56 @@ Companies about 2 developers and 1 accountant, we give support to everything abo
 
 ## <h1>SKILLS & PROGRAMS</h1>
 
-### <h2>Develop</h2>
+### <h3>Develop</h3>
 
 .Net, C#, Entity Framework, Postgres, Microsoft SQL Server, jQuery, PowerShell and Batch, JavaScript, Delphi, angular 1.6, Visual Basic, C++, 
 
-### <h2>Web Design</h2>
+### <h3>Web Design</h3>
 
 HTML5, CSS3,  jQuery, JavaScript, Angular JS, Bootstrap.
 
-### <h2>Versioning</h2>
+### <h3>Versioning</h3>
 
 Git, Gitlab, SVN and TFS. I was in charge multiple time of the branch strategy and maintenance of code. 
 
-### <h2>Management</h2>
+### <h3>Management</h3>
 
 Jira, TFS, BMC Remedy, SCM, ERP, Azure
 
-### <h2>UML</h2>
+### <h3>UML</h3>
 
 Microsoft Visio, Enterprise Architect.
 
-### <h2>Hardware & Network</h2>
+### <h3>Hardware & Network</h3>
 Basic knowledge of server performance requirement. Knowledge about DNS and infrastructure of datacenters with multiple nodes, load balancer and all the connection required form logical to physical structure.
 
-### <h2>Operatives Systems</h2>
+### <h3>Operatives Systems</h3>
 
 Windows Desktop and Windows server 2013-2018.
 
-### <h2>BackOffice</h2>
+### <h3>BackOffice</h3>
 
 MS Exchange
 
-### <h2>General Softs</h2>
+### <h3>General Softs</h3>
 
 Word, Excel, Power Point, Visio, Access, Outlook 
 
-### <h2>Basic Knowledge of</h2>
+### <h3>Basic Knowledge of</h3>
 
-#### <h3>UML</h3>
+#### <h4>UML</h4>
 
 ArgoUML, Poseidon for UML, OpenAmeos, StarUML, UML Designer.
 
-#### <h3>ERP and Planning</h3>
+#### <h4>ERP and Planning</h4>
 
 Tango.
 
-#### <h3>Web Design</h3>
+#### <h4>Web Design</h4>
 
 VBScript, XML, Dreamweaver.
 
-#### <h3>Design</h3>
+#### <h4>Design</h4>
 
 3D Studio, Blender, 3D Mark Studio.
 
