@@ -1,34 +1,12 @@
-- 👋 Hi, I’m Martin Bonafede 
-- 
-- 🌱 I’m currently learning about AWS
-- 📫 How to reach me, contact me at bonafedeit@gmail.com
-
 <div id="top"></div>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
 <!-- PROJECT SHIELDS -->
 <!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![website][website-shield]][website-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-
-
-<!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/bonafede/bonafede">
@@ -50,7 +28,6 @@
     <a href="https://github.com/bonafede/bonafede/issues">Request Feature</a>
   </p>
 </div>
-
 
 
 <!-- TABLE OF CONTENTS -->
@@ -106,7 +83,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- BODY -->
 ## <h1>WORK EXPERIENCE</h1>
 
 ### <h2>Current</h2>
@@ -156,6 +133,8 @@ Senior developer of 3 solution between 10 solution that compose the microservice
 Reference PM: Andres Baldessari - [linkedin](https://www.linkedin.com/in/andresbaldessari/)
 Reference coworker: Matias Katz - [linkedin](https://www.linkedin.com/in/matiasgabrielkatz/)
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br>
 
 ### <h2>Kapsch Trafficom</h2>
@@ -200,6 +179,8 @@ _<h3>April 2013 – December 2015 : Argentina, CABA</h3>_
 
 This company sells a web management solution for mediums business in Argentina. For the beginning I start working with new web modules in Delphi .Net. After a time I was in charge of the migration of all the Backend development to C# .Net. We change the front end too to Angular JS and a new modern Front-End Design. I work a lot as developer using C#, SQL and NHibernet. 
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 <br>
 
 ### <h2>APM Moller Maersk Group</h2>
@@ -241,6 +222,9 @@ Selling graduate trips. I delegate the « captains » of each neighborhood and w
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+
+
+
 ## <h1>FREELANCE EXPERIENCE</h1>
 
 ### <h2>BONAIT SRL</h2>
@@ -258,6 +242,9 @@ I develop small web solutions for multiple clients. Normally a 3 moth work proje
 Companies about 2 developers and 1 accountant, we give support to everything about IT and accountable systems (like tango) to small companies and pymes (Kavigo, Subaru, others). My main function was the development of sql scripts and reports,  commission settlement.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
+
 
 
 
