@@ -82,19 +82,27 @@
 
 
 <!-- BODY -->
+
 ## <h1>WORK EXPERIENCE</h1>
 
 ### <h2>Current</h2>
 
 #### <h3>_Febraury 2022 : Present_</h3>
 
+
+
 Prestart of an app for a pharmaceutic company. I start as the only developer selecting the technology and did a concept solution. The project just start and we are doing the structure of the solution and the UX design to agree with the client. I already set up a backend project that use GraphQL, Nest (in nodejs), TypeGraphQL (for typescript), Prisma and Postgresql.
 
 <br>
 
+
+
 ### <h2>Digital Age</h2>
 
 #### <h3>_November 2021 : Febraury 2022_</h3>
+
+<img style="float: right; position: relative; top: -70px; padding: 10px;" src="images/digitalage_logo.png" alt="Logo" height="60">
+
 
 Architect and developers team leader. I enter as backend developer but after 2 weeks one of the agencies has problem with the client, so every developer left. I was left alone with 2 backend and 1 front end developers. Because the client does not have time, I had to take the structure decision, how the layers of the application will be distributed, the ERD, etc. I did the peer review of each commit of my teammates and develop new features. 
 The project was a decentralized social network that work in a blockchain. It was made on net core with entity framework and blazor.
@@ -105,6 +113,8 @@ The project was a decentralized social network that work in a blockchain. It was
 
 #### <h3>_Jun 2021 : November 2021_</h3>
 
+<img style="float: right; position: relative; top: -70px; padding: 10px;" src="images/checkout_logo.png" alt="Logo" height="75">
+
 Senior developer of an SDK project. We help on build a public SDK of checkout company on dot net. After finishing the dot net SDK, I help on develop de PHP SDK.
 
 <br>
@@ -112,6 +122,8 @@ Senior developer of an SDK project. We help on build a public SDK of checkout co
 ### <h2>Healt Hero</h2>
 
 #### <h3>_Jun 2021 : November 2021_</h3>
+
+<img style="float: right; position: relative; top: -70px; padding: 10px;" src="images/healthero_logo.png" alt="Logo" height="80">
 
 Senior developer of a UK startup medical company. This company bought a lot of small company, and I was working on retro-engineering, refactor and adapt to company standards. 
 -   Implement new features to the net core rest API microservices backend.
@@ -126,6 +138,8 @@ Senior developer of a UK startup medical company. This company bought a lot of s
 
 #### <h3>_Jun 2020 : Jun 2021_</h3>
 
+<img style="float: right; position: relative; top: -70px; padding: 10px;" src="images/zenfolio_logo.png" alt="Logo" height="60">
+
 Senior developer of 3 solution between 10 solution that compose the microservices in Zenfolio products. One team in Argentina working with Russian and Vietnam team. Creation of new solution for commenting management, in charge of architectural selection in that project. Mantinean and evolution of .Net Core solutions backend with Entity Framework.
 
 Reference PM: Andres Baldessari - [linkedin](https://www.linkedin.com/in/andresbaldessari/)
@@ -136,6 +150,8 @@ Reference coworker: Matias Katz - [linkedin](https://www.linkedin.com/in/matiasg
 <br>
 
 ### <h2>Kapsch Trafficom</h2>
+
+<img style="float: right; position: relative; top: -70px; padding: 10px;" src="images/kapsch_logo.png" alt="Logo">
 
 _<h3>Dec 2015 – Jun 2020 : Argentina, CABA / Remote </h3>_
 
@@ -173,6 +189,8 @@ Other reference:
 
 ### <h2>Cylarcom</h2>
 
+<img style="float: right; position: relative; top: -25px; padding: 10px;" src="images/cylarcom_logo.png" alt="Logo" height="40">
+
 _<h3>April 2013 – December 2015 : Argentina, CABA</h3>_
 
 This company sells a web management solution for mediums business in Argentina. For the beginning I start working with new web modules in Delphi .Net. After a time I was in charge of the migration of all the Backend development to C# .Net. We change the front end too to Angular JS and a new modern Front-End Design. I work a lot as developer using C#, SQL and NHibernet. 
@@ -182,6 +200,8 @@ This company sells a web management solution for mediums business in Argentina. 
 <br>
 
 ### <h2>APM Moller Maersk Group</h2>
+
+<img style="float: right; position: relative; top: -30px; padding: 10px;" src="images/maersk_logo.png" alt="Logo" height="50">
 
 _<h3>April December 2007 – December 2015 : Argentina, CABA</h3>_
 
@@ -374,7 +394,11 @@ Jorge Zaiden - Kapsch Trafficom Argentina S.A
 
 ## <h1>CONTACT</h1>
 
-Martin Bonafede - +54 (911) 6858-6340 - contact@bonait.net
+Martin Bonafede 
+- +54 (911) 6858-6340 
+- contact@bonait.net
+- www.bonait.net
+- cv.bonait.com.ar
 
 Github Repositories: [https://github.com/bona-soft/](https://github.com/bona-soft/)
 
